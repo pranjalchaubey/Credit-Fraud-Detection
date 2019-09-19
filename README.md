@@ -16,5 +16,5 @@ The inherently imbalanced dataset was balanced using _random undersampling_. Ove
 
 <br/>Logistic Regression Classifier was used to predict whether a transaction was fraud or not. Since no feature engineering was performed, the classifier had a recall of 56% on the test dataset. Note that in these kind of ML problems, _recall_ matters more than _accuracy_.  
 Below is the confusion matrix obtained from classifier predictions, 
-<br/>
+<br/><br/>
 [![Confusion Matrix](https://github.com/pranjalchaubey/Credit-Fraud-Detection/blob/master/img/confusion_matrix.png "Confusion Matrix")](https://github.com/pranjalchaubey/Credit-Fraud-Detection/blob/master/img/confusion_matrix.png "Confusion Matrix")
